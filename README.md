@@ -1,9 +1,10 @@
 
-![starbase-launch-facility](https://github.com/user-attachments/assets/46cc25de-f82c-43f3-a65f-b5b58953ca9e)
-
 
 # Cognitive Drift
 
+![starbase-launch-facility](https://github.com/user-attachments/assets/46cc25de-f82c-43f3-a65f-b5b58953ca9e)
+
+Shor stiry by Marlon b\Barrios Solano January 26th 2026
 
 She had finished *The Parable of the Sower* three nights before, but the book had not finished with her.
 
