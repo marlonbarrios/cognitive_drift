@@ -15,7 +15,7 @@ Hyperempathy, Butler called it.
 
 Erica did not believe she felt other people’s pain literally. She was too trained in skepticism for that. But she did believe this: that some histories sensitized you. That some lineages made you porous.
 
-She was twenty-two, in Northampton, Massachusetts, in a rented room above the bakery where she worked three mornings a week.
+She was twenty-two, in Northampton, Massachusetts, in a rented room above the bakery where she worked three mornings a week and one evening.
 
 She liked those mornings.
 
@@ -25,7 +25,7 @@ It was honest work.
 Predictable.  
 The opposite of rockets.
 
-She studied physics at a state college, cross-registered through the Five Colleges. She took one seminar each semester at Smith.
+She studied physics at UMass Amherst, cross-registered through the Five Colleges. She took one seminar each semester at Smith College.
 
 When people asked her what she wanted to be, she said it without hesitation, as if saying it could protect it.
 
@@ -46,7 +46,7 @@ She wanted a life made of trajectories and thrust and escape velocity. A life in
 
 That was where she met her first girlfriend.
 
-They sat next to each other in a literature-and-futures class, both pretending not to be nervous. Her girlfriend — she still couldn’t say the word without feeling the ghost of a smile — had hair always half tied, half falling, and the habit of underlining sentences as if she were trying to rescue them.
+They sat next to each other in a literature-and-futures class, both pretending not to be nervous. Her girlfriend — she still couldn’t say the word without feeling the ghost of a smile — had her blond hair always half tied, half falling, and the habit of underlining sentences as if she were trying to rescue them.
 
 It was she who pressed Butler into Erica’s hands.
 
@@ -232,7 +232,6 @@ Starbase was not a city.
 
 It was scaffolding pretending to be destiny.
 
-
 ![5aa142d0-bbe8-11f0-8252-53776b9338e4 jpg](https://github.com/user-attachments/assets/1f4d856e-1687-435a-90c2-aa0819d25e3a)
 
 Metal towers.  
@@ -257,7 +256,7 @@ The rocket stood impossibly tall, obscene and beautiful.
 She thought:
 
 *This is what science looks like when it becomes theology.  
-This is what liberation looks like when it requires permission.*
+This is what liberation looks like when it requires priviledge.*
 
 The countdown began.
 
@@ -270,7 +269,7 @@ Ignition.
 
 The ground vibrated like a restrained animal.  
 Fire.  
-Noise that erased thought.
+Noise erasing thought.
 
 The rocket lifted, slow, dignified, as if it were not fighting gravity but negotiating with it.
 
@@ -288,7 +287,7 @@ A wrongness.
 The explosion was not cinematic.
 
 It was abrupt.  
-A tearing.
+A tearing with a delay.
 
 A bloom of fire in mid-air, like a flower that had mistaken itself for a star.
 
