@@ -1,8 +1,9 @@
 
+![starbase-launch-facility](https://github.com/user-attachments/assets/46cc25de-f82c-43f3-a65f-b5b58953ca9e)
+
 
 # Cognitive Drift
 
-![5aa142d0-bbe8-11f0-8252-53776b9338e4 jpg](https://github.com/user-attachments/assets/1f4d856e-1687-435a-90c2-aa0819d25e3a)
 
 She had finished *The Parable of the Sower* three nights before, but the book had not finished with her.
 
@@ -229,6 +230,9 @@ By the time she reached Boca Chica, she was exhausted in a way that felt histori
 Starbase was not a city.
 
 It was scaffolding pretending to be destiny.
+
+
+![5aa142d0-bbe8-11f0-8252-53776b9338e4 jpg](https://github.com/user-attachments/assets/1f4d856e-1687-435a-90c2-aa0819d25e3a)
 
 Metal towers.  
 White cylinders.  
